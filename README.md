@@ -8,7 +8,8 @@
 The Application has specific technologies that will be needed to run properly.
 
 
-**AWS Lex, AWS
+**Amazon Web Services:** *AWS Lex & AWS Lambda*
+
 **Languages Required:** *Python*
 
 **Libraries Required:** *Datetime, dateutil, botocore*
@@ -74,7 +75,7 @@ The application is built to create a trading bot using Machine Learning
     5. I'm worried about my retirement
     6. I want to invest for my retirement
     7. I would like to invest for my retirement
-2. Answer the remaining q
+2. Answer the remaining questions pertaining to age, investment amount, and risk aversion desire.
 
 ---
 
