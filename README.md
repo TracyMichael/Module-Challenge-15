@@ -23,11 +23,6 @@ from botocore.vendored import requests
 ```
 
 
-Further details denoting requirements and verions are available in the requirements file.            
-
-[Requirements](./requirements.txt)
-
-
 ---
 
 ## Installation Guide
